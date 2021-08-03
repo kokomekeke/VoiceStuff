@@ -1,0 +1,2 @@
+# VoiceStuff
+Minden ami hangvezérlés
